@@ -1,4 +1,4 @@
-package br.com.financial.financial;
+package br.com.financial.tests;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
